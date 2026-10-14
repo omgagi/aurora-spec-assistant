@@ -1,0 +1,10 @@
+[
+ {"id":"H01","source":"held-out (written after engine freeze)","q":"What is the maximum inside drop from inlet to outlet in a sanitary manhole?","manual":"WSSD","pages":[46],"key":"18"},
+ {"id":"H02","source":"held-out","q":"How long must a poured concrete thrust block cure?","manual":"WSSD","pages":[83],"key":"twenty-four"},
+ {"id":"H03","source":"held-out","q":"What criteria apply to safety grates on culverts?","manual":"SDDTC","pages":[197],"key":"MHFD"},
+ {"id":"H04","source":"held-out","q":"What extra controls are required for stockpiles near a public storm sewer?","manual":"SWRULES","pages":[37],"key":"100 feet"},
+ {"id":"H05","source":"held-out","q":"What minimum slope is required for underdrains in the right-of-way?","manual":"WSSD","pages":[152],"key":"2%"},
+ {"id":"H06","source":"held-out","q":"How soon must graded areas be temporarily stabilized with rough cut street controls?","manual":"SWRULES","pages":[36],"key":"seven"},
+ {"id":"H07","source":"held-out","q":"What is the minimum diameter of private storm pipe?","manual":"WSSD","pages":[156],"key":"eighteen"},
+ {"id":"H08","source":"held-out out-of-scope","q":"What are the hours of the Aurora Municipal Center?","manual":null,"pages":[],"key":null}
+]

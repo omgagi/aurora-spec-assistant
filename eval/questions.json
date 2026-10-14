@@ -1,0 +1,207 @@
+[
+ {
+  "id": "Q01",
+  "source": "RFP 1.1.8 #1",
+  "q": "What is the minimum bury depth for water lines?",
+  "manual": "WSSD",
+  "pages": [
+   47,
+   80
+  ],
+  "key": "4½"
+ },
+ {
+  "id": "Q02",
+  "source": "RFP 1.1.8 #2",
+  "q": "What type of pipe is required for sewer lines deeper than 20 feet?",
+  "manual": "WSSD",
+  "pages": [
+   46
+  ],
+  "key": "46"
+ },
+ {
+  "id": "Q03",
+  "source": "RFP 1.1.8 #3",
+  "q": "What is the minimum horizontal distance between a water line and a sewer line?",
+  "manual": "WSSD",
+  "pages": [
+   47,
+   48
+  ],
+  "key": "10'"
+ },
+ {
+  "id": "Q04",
+  "source": "RFP 1.1.8 #4",
+  "q": "How many residential units can be on a dead-end water main?",
+  "manual": "WSSD",
+  "pages": [
+   44,
+   45
+  ],
+  "key": "twelve"
+ },
+ {
+  "id": "Q05",
+  "source": "RFP 1.1.8 #5",
+  "q": "What type of bedding is required for reinforced concrete pipe?",
+  "manual": "WSSD",
+  "pages": [
+   156
+  ],
+  "key": "RCP"
+ },
+ {
+  "id": "Q06",
+  "source": "RFP 1.1.8 #6",
+  "q": "What is the maximum ponding depth in a parking lot?",
+  "manual": "SDDTC",
+  "pages": [
+   230,
+   161
+  ],
+  "key": "12 inches"
+ },
+ {
+  "id": "Q07",
+  "source": "RFP 1.1.8 #7",
+  "q": "What is the minimum clearance for a stormwater and sanitary crossing in ROW with minimum pipe sizes?",
+  "manual": "WSSD",
+  "pages": [
+   82
+  ],
+  "key": "18"
+ },
+ {
+  "id": "Q08",
+  "source": "derived (RFP 1.1.1 use case)",
+  "q": "What is the maximum distance between manholes on an 8-inch sanitary sewer?",
+  "manual": "WSSD",
+  "pages": [
+   53
+  ],
+  "key": "400'"
+ },
+ {
+  "id": "Q09",
+  "source": "derived",
+  "q": "What is the required fire hydrant spacing?",
+  "manual": "WSSD",
+  "pages": [
+   109
+  ],
+  "key": "International Fire"
+ },
+ {
+  "id": "Q10",
+  "source": "derived",
+  "q": "How far can a fire department connection be from a fire hydrant?",
+  "manual": "WSSD",
+  "pages": [
+   109
+  ],
+  "key": "100"
+ },
+ {
+  "id": "Q11",
+  "source": "derived",
+  "q": "What is the maximum flow velocity in a water main?",
+  "manual": "WSSD",
+  "pages": [
+   44
+  ],
+  "key": "velocity"
+ },
+ {
+  "id": "Q12",
+  "source": "derived",
+  "q": "What is the minimum water main diameter in single family residential areas?",
+  "manual": "WSSD",
+  "pages": [
+   44
+  ],
+  "key": "8"
+ },
+ {
+  "id": "Q13",
+  "source": "derived",
+  "q": "What is the minimum diameter of a sanitary sewer service line?",
+  "manual": "WSSD",
+  "pages": [
+   145,
+   151
+  ],
+  "key": "4"
+ },
+ {
+  "id": "Q14",
+  "source": "derived",
+  "q": "What is the minimum diameter for public storm drain mains and laterals?",
+  "manual": "SDDTC",
+  "pages": [
+   162
+  ],
+  "key": "18 inches"
+ },
+ {
+  "id": "Q15",
+  "source": "derived",
+  "q": "What is the minimum culvert pipe diameter within the public right-of-way?",
+  "manual": "SDDTC",
+  "pages": [
+   196
+  ],
+  "key": "24 inches"
+ },
+ {
+  "id": "Q16",
+  "source": "derived",
+  "q": "How often must BMPs be inspected during construction?",
+  "manual": "SWRULES",
+  "pages": [
+   36,
+   52,
+   77
+  ],
+  "key": "seven"
+ },
+ {
+  "id": "Q17",
+  "source": "derived",
+  "q": "After construction is complete, how often must the permittee self-inspect the site until final permit closeout?",
+  "manual": "SWRULES",
+  "pages": [
+   80,
+   52,
+   95
+  ],
+  "key": "30"
+ },
+ {
+  "id": "Q18",
+  "source": "derived",
+  "q": "What is required when stockpiles are located within 100 feet of a drainageway?",
+  "manual": "SWRULES",
+  "pages": [
+   37
+  ],
+  "key": "100 feet"
+ },
+ {
+  "id": "Q19",
+  "source": "out-of-scope probe",
+  "q": "What is the speed limit on residential streets in Aurora?",
+  "manual": null,
+  "pages": [],
+  "key": null
+ },
+ {
+  "id": "Q20",
+  "source": "out-of-scope probe",
+  "q": "What is the City's remote work policy for engineering staff?",
+  "manual": null,
+  "pages": [],
+  "key": null
+ }
+]

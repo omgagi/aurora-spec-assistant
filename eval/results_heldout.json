@@ -1,0 +1,256 @@
+{
+ "summary": {
+  "n": 8,
+  "top1_citation_correct": 4,
+  "top3_citation_correct": 6,
+  "build": "1efc21d85575"
+ },
+ "rows": [
+  {
+   "id": "H01",
+   "source": "held-out (written after engine freeze)",
+   "q": "What is the maximum inside drop from inlet to outlet in a sanitary manhole?",
+   "manual": "WSSD",
+   "pages": [
+    46
+   ],
+   "key": "18",
+   "found": true,
+   "top1_correct": false,
+   "top3_correct": true,
+   "key_in_excerpt": true,
+   "got": [
+    [
+     "WSSD",
+     "31.06 Pipe Selection Chart",
+     192
+    ],
+    [
+     "WSSD",
+     "5.03 Sanitary Sewer System Design Criteria",
+     46
+    ],
+    [
+     "WSSD",
+     "10.07 Sanitary Sewer System Manholes",
+     77
+    ]
+   ],
+   "answer": "AURORA WATER REQUIRES INSIDE SLIDES WHERE THE INVERT OF THE CONNECTING SANITARY SEWER IS ABOVE THE CROWN OF THE RECEIVING SANITARY SEWER AND THE DROP INTO THE MANHOLE IS SHORT ENOUGH NOT TO REQUIRE A DROP CONNECTION. … 6 of 7 INSIDE DROP 03/05/2025 101-6 AURORA WATER DATE",
+   "reason": null
+  },
+  {
+   "id": "H02",
+   "source": "held-out",
+   "q": "How long must a poured concrete thrust block cure?",
+   "manual": "WSSD",
+   "pages": [
+    83
+   ],
+   "key": "twenty-four",
+   "found": true,
+   "top1_correct": true,
+   "top3_correct": true,
+   "key_in_excerpt": true,
+   "got": [
+    [
+     "WSSD",
+     "11.10 Thrust Blocks",
+     83
+    ],
+    [
+     "WSSD",
+     "20.03.3 Thrust Blocks and Flow Fill",
+     128
+    ],
+    [
+     "WSSD",
+     "11.10 Thrust Blocks",
+     84
+    ]
+   ],
+   "answer": "Poured concrete thrust block per these specifications must be cured twenty-four (24) hours before backfill unless otherwise permitted by the Engineer. … Thrust blocks may be backfilled prior to twenty-four (24) hours of cure time if high-early strength concrete is used which can attain strength of two thousand five hundred (2,500) psi within four (4) hours after placement.",
+   "reason": null
+  },
+  {
+   "id": "H03",
+   "source": "held-out",
+   "q": "What criteria apply to safety grates on culverts?",
+   "manual": "SDDTC",
+   "pages": [
+    197
+   ],
+   "key": "MHFD",
+   "found": true,
+   "top1_correct": true,
+   "top3_correct": true,
+   "key_in_excerpt": true,
+   "got": [
+    [
+     "SDDTC",
+     "9.4.6 Safety Grates",
+     197
+    ],
+    [
+     "SDDTC",
+     "1.6 REVISIONS",
+     14
+    ],
+    [
+     "WSSD",
+     "10 VALVE BOX & CURB STOP",
+     274
+    ]
+   ],
+   "answer": "9.4.6 Safety Grates Safety grates shall be implemented where required by the latest MHFD criteria. … The design of safety grates must be in accordance with all relevant MHFD criteria.",
+   "reason": null
+  },
+  {
+   "id": "H04",
+   "source": "held-out",
+   "q": "What extra controls are required for stockpiles near a public storm sewer?",
+   "manual": "SWRULES",
+   "pages": [
+    37
+   ],
+   "key": "100 feet",
+   "found": false,
+   "top1_correct": false,
+   "top3_correct": false,
+   "key_in_excerpt": false,
+   "got": [],
+   "answer": "I could not find support for this in the three Aurora Water manuals. Please contact the Aurora Water Engineering inbox: waterengineering@auroragov.org.",
+   "reason": "low support (score 19.7, weighted term coverage 54%, most specific term 'extra' missing)"
+  },
+  {
+   "id": "H05",
+   "source": "held-out",
+   "q": "What minimum slope is required for underdrains in the right-of-way?",
+   "manual": "WSSD",
+   "pages": [
+    152
+   ],
+   "key": "2%",
+   "found": true,
+   "top1_correct": true,
+   "top3_correct": true,
+   "key_in_excerpt": true,
+   "got": [
+    [
+     "WSSD",
+     "24.05 Alignment",
+     152
+    ],
+    [
+     "WSSD",
+     "24.01 General",
+     151
+    ],
+    [
+     "WSSD",
+     "24.08 Installation",
+     153
+    ]
+   ],
+   "answer": "24.05 Alignment The alignment of the underdrain pipe shall be parallel to the sanitary sewer, according to these specifications and details, not be located directly beneath any manholes, and at no time be unable to drain. … Design of underdrain systems for structure foundations are the responsibility of the owner/developer and all laterals that connect to the underdrain main located within City right-of-way shall be designed with a minimum slope of two percent (2%).",
+   "reason": null
+  },
+  {
+   "id": "H06",
+   "source": "held-out",
+   "q": "How soon must graded areas be temporarily stabilized with rough cut street controls?",
+   "manual": "SWRULES",
+   "pages": [
+    36
+   ],
+   "key": "seven",
+   "found": true,
+   "top1_correct": true,
+   "top3_correct": true,
+   "key_in_excerpt": true,
+   "got": [
+    [
+     "SWRULES",
+     "2.2 Design of System of Construction Stormwater BMPs and",
+     36
+    ],
+    [
+     "SWRULES",
+     "8 VARIANCE REQUESTS",
+     232
+    ],
+    [
+     "SWRULES",
+     "1 OF 2",
+     191
+    ]
+   ],
+   "answer": "Streets shall be constructed with Rough Cut Street Control measures, surface roughened or otherwise temporarily stabilized with rough cut street controls within seven (7) days of completion of grading in the appropriate phase. … If paving is to occur within fourteen (14) days after final grading, rough cut street controls shall be waived.",
+   "reason": null
+  },
+  {
+   "id": "H07",
+   "source": "held-out",
+   "q": "What is the minimum diameter of private storm pipe?",
+   "manual": "WSSD",
+   "pages": [
+    156
+   ],
+   "key": "eighteen",
+   "found": true,
+   "top1_correct": false,
+   "top3_correct": true,
+   "key_in_excerpt": true,
+   "got": [
+    [
+     "WSSD",
+     "25.03 Pipe Size",
+     7
+    ],
+    [
+     "WSSD",
+     "25.03 Pipe Size",
+     156
+    ],
+    [
+     "WSSD",
+     "29.04 Diameter of Pipe",
+     171
+    ]
+   ],
+   "answer": "25.03 Pipe Size Added requirement for Private storm pipe diameter to be at minimum eighteen inches (18”) unless approved by Aurora Water.",
+   "reason": null
+  },
+  {
+   "id": "H08",
+   "source": "held-out out-of-scope",
+   "q": "What are the hours of the Aurora Municipal Center?",
+   "manual": null,
+   "pages": [],
+   "key": null,
+   "found": true,
+   "top1_correct": false,
+   "top3_correct": false,
+   "key_in_excerpt": null,
+   "got": [
+    [
+     "WSSD",
+     "3.01.1 The Aurora Water Department requires a Public Extension Agreement be",
+     32
+    ],
+    [
+     "SWRULES",
+     "5.2 Detailed Instructions for Permit Closeout",
+     112
+    ],
+    [
+     "SWRULES",
+     "5.2 Detailed Instructions for Permit Closeout",
+     108
+    ]
+   ],
+   "answer": "The Inspector must be notified at least twenty-four (24) hours in advance of the time construction will begin. … The Contractor's payment for all overtime work shall be made by check to the City of Aurora at the Cashier’s Office at Aurora Municipal Center , 15151 East Alameda Parkway, Aurora, Colorado 80012.",
+   "reason": null
+  }
+ ]
+}

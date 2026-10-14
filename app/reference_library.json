@@ -1,0 +1,120 @@
+{
+ "_note": "Supplemental reference library (RFP 1.1.5.3-4): generic acronyms/synonyms used only to expand query terms. Not a source of answers; answers are only quoted from the manuals.",
+ "synonyms": {
+  "bury": [
+   "cover",
+   "depth",
+   "main"
+  ],
+  "buried": [
+   "cover"
+  ],
+  "rcp": [
+   "reinforced",
+   "concrete"
+  ],
+  "reinforced": [
+   "rcp"
+  ],
+  "row": [
+   "right-of-way",
+   "right",
+   "way"
+  ],
+  "separation": [
+   "distance",
+   "horizontal",
+   "clearance"
+  ],
+  "distance": [
+   "separation"
+  ],
+  "clearance": [
+   "separation",
+   "clear"
+  ],
+  "swmp": [
+   "stormwater",
+   "management",
+   "plan"
+  ],
+  "bmp": [
+   "bmps",
+   "best",
+   "management",
+   "practice"
+  ],
+  "hdpe": [
+   "polyethylene"
+  ],
+  "pvc": [
+   "polyvinyl"
+  ],
+  "dip": [
+   "ductile"
+  ],
+  "ponding": [
+   "ponding",
+   "depth"
+  ],
+  "units": [
+   "dwelling",
+   "units"
+  ],
+  "line": [
+   "main"
+  ],
+  "lines": [
+   "main"
+  ],
+  "main": [
+   "line"
+  ],
+  "deeper": [
+   "greater",
+   "depths",
+   "depth"
+  ],
+  "deeper than": [
+   "greater than"
+  ],
+  "crossing": [
+   "crosses",
+   "cross"
+  ],
+  "stormwater": [
+   "storm",
+   "sewer"
+  ],
+  "sanitary": [
+   "sewer"
+  ],
+  "bmps": [
+   "bmp"
+  ],
+  "inspected": [
+   "inspect",
+   "inspection"
+  ],
+  "inspection": [
+   "inspect"
+  ],
+  "often": [
+   "every",
+   "days",
+   "calendar"
+  ],
+  "velocity": [
+   "velocit"
+  ],
+  "flow": [
+   "flowing"
+  ],
+  "service": [
+   "services"
+  ],
+  "diameter": [
+   "size"
+  ]
+ }
+}

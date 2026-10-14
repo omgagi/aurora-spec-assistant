@@ -1,0 +1,4 @@
+manuals/*.pdf
+text/
+app/feedback.jsonl
+__pycache__/

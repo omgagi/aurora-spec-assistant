@@ -1,0 +1,638 @@
+{
+ "summary": {
+  "n": 20,
+  "top1_citation_correct": 13,
+  "top3_citation_correct": 16,
+  "build": "1efc21d85575"
+ },
+ "rows": [
+  {
+   "id": "Q01",
+   "source": "RFP 1.1.8 #1",
+   "q": "What is the minimum bury depth for water lines?",
+   "manual": "WSSD",
+   "pages": [
+    47,
+    80
+   ],
+   "key": "4½",
+   "found": true,
+   "top1_correct": false,
+   "top3_correct": false,
+   "key_in_excerpt": false,
+   "got": [
+    [
+     "WSSD",
+     "22.08 Deep Sewers",
+     143
+    ],
+    [
+     "WSSD",
+     "5.04 Alignment, Depth and Easements",
+     48
+    ],
+    [
+     "WSSD",
+     "16.01 General",
+     106
+    ]
+   ],
+   "answer": "22.08 Deep Sewers ASTM D3034-SDR-26 shall be required when a sanitary main must be installed with a bury depth greater than fifteen (15) vertical feet. … AWWA C900 PVC shall be required if the bury depth increases to twenty (20) vertical feet.",
+   "reason": null
+  },
+  {
+   "id": "Q02",
+   "source": "RFP 1.1.8 #2",
+   "q": "What type of pipe is required for sewer lines deeper than 20 feet?",
+   "manual": "WSSD",
+   "pages": [
+    46
+   ],
+   "key": "46",
+   "found": true,
+   "top1_correct": false,
+   "top3_correct": false,
+   "key_in_excerpt": false,
+   "got": [
+    [
+     "WSSD",
+     "5.04 Alignment, Depth and Easements",
+     48
+    ],
+    [
+     "WSSD",
+     "22.08 Deep Sewers",
+     143
+    ],
+    [
+     "WSSD",
+     "5.04 Alignment, Depth and Easements",
+     47
+    ]
+   ],
+   "answer": "This may include concrete or steel encasement of the sanitary sewer main for a length of ten feet (10’) on both sides of the crossing (for a total length of twenty feet (20')) at the direction of Aurora Water Engineering. … Mains greater than ten feet (10') in depth require easement dedication width to provide a 1:1 slope from the edge of the easement to the bottom of the pipe.",
+   "reason": null
+  },
+  {
+   "id": "Q03",
+   "source": "RFP 1.1.8 #3",
+   "q": "What is the minimum horizontal distance between a water line and a sewer line?",
+   "manual": "WSSD",
+   "pages": [
+    47,
+    48
+   ],
+   "key": "10'",
+   "found": true,
+   "top1_correct": true,
+   "top3_correct": true,
+   "key_in_excerpt": true,
+   "got": [
+    [
+     "WSSD",
+     "5.04 Alignment, Depth and Easements",
+     48
+    ],
+    [
+     "WSSD",
+     "17.02 Location and Alignment of Service",
+     111
+    ],
+    [
+     "WSSD",
+     "17.06 Tapping the Main",
+     112
+    ]
+   ],
+   "answer": "When water pipes cross sanitary sewer lines, the water line must be laid above the sanitary sewer line with a twenty-four inch (24”) minimum vertical separation (includes water and sanitary services) with all pipe joints no closer than ten feet (10') horizontal from the sanitary sewer pipe centerline. … In the case where a twenty-four inch (24”) separation cannot be kept or sewer lines cannot be located below the water line, special design to protect water quality will be required.",
+   "reason": null
+  },
+  {
+   "id": "Q04",
+   "source": "RFP 1.1.8 #4",
+   "q": "How many residential units can be on a dead-end water main?",
+   "manual": "WSSD",
+   "pages": [
+    44,
+    45
+   ],
+   "key": "twelve",
+   "found": true,
+   "top1_correct": true,
+   "top3_correct": true,
+   "key_in_excerpt": true,
+   "got": [
+    [
+     "WSSD",
+     "5.02.2 Main Size",
+     44
+    ],
+    [
+     "WSSD",
+     "5.02.4 Fire Hydrants",
+     45
+    ],
+    [
+     "WSSD",
+     "11.09 Thrust Restraint",
+     83
+    ]
+   ],
+   "answer": "• The minimum diameter for water mains in single family detached residential areas shall be eight inches (8”), unless six inch (6”) pipe is required in a particular location by the Aurora Water Engineering due to potential water quality issues. … • A maximum of twelve (12) residential units are allowed to be served from a dead end water main.",
+   "reason": null
+  },
+  {
+   "id": "Q05",
+   "source": "RFP 1.1.8 #5",
+   "q": "What type of bedding is required for reinforced concrete pipe?",
+   "manual": "WSSD",
+   "pages": [
+    156
+   ],
+   "key": "RCP",
+   "found": true,
+   "top1_correct": false,
+   "top3_correct": false,
+   "key_in_excerpt": false,
+   "got": [
+    [
+     "WSSD",
+     "26.07.3 Mortared Joints",
+     162
+    ],
+    [
+     "WSSD",
+     "9.05.1 Class A Bedding",
+     69
+    ],
+    [
+     "WSSD",
+     "25.02 Approved Pipe Materials",
+     155
+    ]
+   ],
+   "answer": "Reinforced Concrete (RCP) Storm Sewer Pipe 26-4 January 2026",
+   "reason": null
+  },
+  {
+   "id": "Q06",
+   "source": "RFP 1.1.8 #6",
+   "q": "What is the maximum ponding depth in a parking lot?",
+   "manual": "SDDTC",
+   "pages": [
+    230,
+    161
+   ],
+   "key": "12 inches",
+   "found": true,
+   "top1_correct": false,
+   "top3_correct": true,
+   "key_in_excerpt": true,
+   "got": [
+    [
+     "SDDTC",
+     "10.10 DESIGN STANDARDS FOR PARKING LOT DETENTION",
+     231
+    ],
+    [
+     "SDDTC",
+     "10.10 DESIGN STANDARDS FOR PARKING LOT DETENTION",
+     230
+    ],
+    [
+     "SDDTC",
+     "6.3.3 Inlet Locations",
+     161
+    ]
+   ],
+   "answer": "Ponding water in frequently used portions of parking lots must be avoided. … At least two signs are required for all parking lot detention areas.",
+   "reason": null
+  },
+  {
+   "id": "Q07",
+   "source": "RFP 1.1.8 #7",
+   "q": "What is the minimum clearance for a stormwater and sanitary crossing in ROW with minimum pipe sizes?",
+   "manual": "WSSD",
+   "pages": [
+    82
+   ],
+   "key": "18",
+   "found": true,
+   "top1_correct": true,
+   "top3_correct": true,
+   "key_in_excerpt": true,
+   "got": [
+    [
+     "WSSD",
+     "11.08.1 Storm Sewer Crossing over Water or Sanitary Sewer",
+     82
+    ],
+    [
+     "WSSD",
+     "22.09 Channel Crossing",
+     143
+    ],
+    [
+     "WSSD",
+     "11.08.2 Water Crossing over Sanitary Sewer",
+     83
+    ]
+   ],
+   "answer": "11.08.1 Storm Sewer Crossing over Water or Sanitary Sewer A minimum clearance of eighteen inches (18”) is required whenever a storm sewer crosses over a water or sanitary sewer main. … In no case shall vertical clearance between storm sewer pipe and sanitary sewer or water pipe be less than six inches (6”).",
+   "reason": null
+  },
+  {
+   "id": "Q08",
+   "source": "derived (RFP 1.1.1 use case)",
+   "q": "What is the maximum distance between manholes on an 8-inch sanitary sewer?",
+   "manual": "WSSD",
+   "pages": [
+    53
+   ],
+   "key": "400'",
+   "found": true,
+   "top1_correct": true,
+   "top3_correct": true,
+   "key_in_excerpt": true,
+   "got": [
+    [
+     "WSSD",
+     "5.06 Manhole Spacing",
+     53
+    ],
+    [
+     "WSSD",
+     "10.01.8 Manhole Steps",
+     74
+    ],
+    [
+     "WSSD",
+     "5.07 Manhole Barrel Size",
+     54
+    ]
+   ],
+   "answer": "5.06 Manhole Spacing The maximum distance between manholes shall be as follows: … Sanitary Pipe Size Maximum Distance 8\" to 15\" 400' 18\" to 30\" 500' Larger than 30\" 600'",
+   "reason": null
+  },
+  {
+   "id": "Q09",
+   "source": "derived",
+   "q": "What is the required fire hydrant spacing?",
+   "manual": "WSSD",
+   "pages": [
+    109
+   ],
+   "key": "International Fire",
+   "found": true,
+   "top1_correct": true,
+   "top3_correct": true,
+   "key_in_excerpt": true,
+   "got": [
+    [
+     "WSSD",
+     "16.06 Fire Hydrant Spacing",
+     109
+    ],
+    [
+     "WSSD",
+     "16.06 Hydrant Spacing",
+     6
+    ],
+    [
+     "WSSD",
+     "5.02.4 Fire Hydrants",
+     45
+    ]
+   ],
+   "answer": "16.06 Fire Hydrant Spacing Fire hydrant spacing shall not exceed the distance recommended in the International Fire Code as currently adopted by the City of Aurora. … Fire Department Connections (FDC) shall be within one hundred feet (100’) of fire hydrants.",
+   "reason": null
+  },
+  {
+   "id": "Q10",
+   "source": "derived",
+   "q": "How far can a fire department connection be from a fire hydrant?",
+   "manual": "WSSD",
+   "pages": [
+    109
+   ],
+   "key": "100",
+   "found": true,
+   "top1_correct": true,
+   "top3_correct": true,
+   "key_in_excerpt": true,
+   "got": [
+    [
+     "WSSD",
+     "16.06 Fire Hydrant Spacing",
+     109
+    ],
+    [
+     "WSSD",
+     "16.06 Hydrant Spacing",
+     6
+    ],
+    [
+     "WSSD",
+     "11.09 Thrust Restraint",
+     83
+    ]
+   ],
+   "answer": "16.06 Fire Hydrant Spacing Fire hydrant spacing shall not exceed the distance recommended in the International Fire Code as currently adopted by the City of Aurora. … Fire Department Connections (FDC) shall be within one hundred feet (100’) of fire hydrants.",
+   "reason": null
+  },
+  {
+   "id": "Q11",
+   "source": "derived",
+   "q": "What is the maximum flow velocity in a water main?",
+   "manual": "WSSD",
+   "pages": [
+    44
+   ],
+   "key": "velocity",
+   "found": true,
+   "top1_correct": false,
+   "top3_correct": true,
+   "key_in_excerpt": true,
+   "got": [
+    [
+     "WSSD",
+     "5.03 Sanitary Sewer System Design Criteria",
+     47
+    ],
+    [
+     "WSSD",
+     "5.11 Record Drawings",
+     56
+    ],
+    [
+     "WSSD",
+     "5.02.2 Main Size",
+     44
+    ]
+   ],
+   "answer": "Other size service lines require a minimum two feet (2') per second velocity once per day. … 5.03.8 Direct service line taps shall not be allowed on sewer mains twenty-four inches (24”) in diameter and larger, unless approved by Aurora Water",
+   "reason": null
+  },
+  {
+   "id": "Q12",
+   "source": "derived",
+   "q": "What is the minimum water main diameter in single family residential areas?",
+   "manual": "WSSD",
+   "pages": [
+    44
+   ],
+   "key": "8",
+   "found": true,
+   "top1_correct": true,
+   "top3_correct": true,
+   "key_in_excerpt": true,
+   "got": [
+    [
+     "WSSD",
+     "5.02.2 Main Size",
+     44
+    ],
+    [
+     "WSSD",
+     "17.07 Service Line Installations",
+     113
+    ],
+    [
+     "WSSD",
+     "5.05.1 Aurora Water Standard Utility Notes",
+     51
+    ]
+   ],
+   "answer": "• The minimum diameter for water mains in single family detached residential areas shall be eight inches (8”), unless six inch (6”) pipe is required in a particular location by the Aurora Water Engineering due to potential water quality issues. … • Water mains servicing schools, commercial, industrial, retail developments, and multi-family attached residential areas shall be a minimum of eight inches (8”) in diameter.",
+   "reason": null
+  },
+  {
+   "id": "Q13",
+   "source": "derived",
+   "q": "What is the minimum diameter of a sanitary sewer service line?",
+   "manual": "WSSD",
+   "pages": [
+    145,
+    151
+   ],
+   "key": "4",
+   "found": true,
+   "top1_correct": false,
+   "top3_correct": false,
+   "key_in_excerpt": false,
+   "got": [
+    [
+     "WSSD",
+     "5.03 Sanitary Sewer System Design Criteria",
+     47
+    ],
+    [
+     "WSSD",
+     "23.05.1 General",
+     146
+    ],
+    [
+     "WSSD",
+     "23.07 Service Stub-In to Property Line",
+     147
+    ]
+   ],
+   "answer": "5.03.7 Minimum diameter of service lines is four inches (4”). … 5.03.8 Direct service line taps shall not be allowed on sewer mains twenty-four inches (24”) in diameter and larger, unless approved by Aurora Water",
+   "reason": null
+  },
+  {
+   "id": "Q14",
+   "source": "derived",
+   "q": "What is the minimum diameter for public storm drain mains and laterals?",
+   "manual": "SDDTC",
+   "pages": [
+    162
+   ],
+   "key": "18 inches",
+   "found": true,
+   "top1_correct": true,
+   "top3_correct": true,
+   "key_in_excerpt": true,
+   "got": [
+    [
+     "SDDTC",
+     "6.4.2 Minimum Sizes",
+     162
+    ],
+    [
+     "SDDTC",
+     "6.4.5 Alignment",
+     162
+    ],
+    [
+     "SDDTC",
+     "6.4.3 Minimum Pipe Slopes",
+     162
+    ]
+   ],
+   "answer": "The minimum diameter for storm drain laterals and mains is 18 inches. … The CoA will consider smaller laterals that are privately owned and maintained on a case-by-case basis with a variance.",
+   "reason": null
+  },
+  {
+   "id": "Q15",
+   "source": "derived",
+   "q": "What is the minimum culvert pipe diameter within the public right-of-way?",
+   "manual": "SDDTC",
+   "pages": [
+    196
+   ],
+   "key": "24 inches",
+   "found": true,
+   "top1_correct": true,
+   "top3_correct": true,
+   "key_in_excerpt": true,
+   "got": [
+    [
+     "SDDTC",
+     "9.4.1 Construction Material and Pipe Size",
+     196
+    ],
+    [
+     "SDDTC",
+     "3.20 EASEMENTS AND TRACTS",
+     108
+    ]
+   ],
+   "answer": "9.4.1 Construction Material and Pipe Size Within the CoA, culverts must be constructed from ASTM C76 Class III reinforced concrete or better (ASTM International, latest edition). … The minimum pipe diameter for culverts within the public right-of-way (ROW) is 24 inches.",
+   "reason": null
+  },
+  {
+   "id": "Q16",
+   "source": "derived",
+   "q": "How often must BMPs be inspected during construction?",
+   "manual": "SWRULES",
+   "pages": [
+    36,
+    52,
+    77
+   ],
+   "key": "seven",
+   "found": true,
+   "top1_correct": false,
+   "top3_correct": true,
+   "key_in_excerpt": false,
+   "got": [
+    [
+     "SWRULES",
+     "5 INSPECTIONS AND MAINTENANCE",
+     266
+    ],
+    [
+     "SWRULES",
+     "5 INSPECTIONS AND MAINTENANCE",
+     52
+    ],
+    [
+     "SWRULES",
+     "8 VARIANCE REQUESTS",
+     279
+    ]
+   ],
+   "answer": "Permittee shall self‐inspect the site at least every 7 calendar days and within 24‐hours after the end of any precipitation event or snowmelt event that results in runoff and causes surface erosion, except as allowed in Item iii below. … Permittee shall self‐ inspect the site at least every 30 calendar days, and within 24‐hours after the end of any precipitation event or snowmelt event that results in runoff and causes surface erosion",
+   "reason": null
+  },
+  {
+   "id": "Q17",
+   "source": "derived",
+   "q": "After construction is complete, how often must the permittee self-inspect the site until final permit closeout?",
+   "manual": "SWRULES",
+   "pages": [
+    80,
+    52,
+    95
+   ],
+   "key": "30",
+   "found": true,
+   "top1_correct": true,
+   "top3_correct": true,
+   "key_in_excerpt": true,
+   "got": [
+    [
+     "SWRULES",
+     "3.4 After Construction is Complete",
+     80
+    ],
+    [
+     "SWRULES",
+     "5 INSPECTIONS AND MAINTENANCE",
+     52
+    ],
+    [
+     "SWRULES",
+     "5 INSPECTIONS AND MAINTENANCE",
+     266
+    ]
+   ],
+   "answer": "3.4 After Construction is Complete After construction is complete, after the site has received initial closeout acceptance, and until final permit closeout, Permittees shall self‐inspect the site at least once every 30 days, and within 24 hours after precipitation and snowmelt events, that creates runoff to cause erosion. … BMPs shall be repaired and maintained as necessary until site stabilization is approved and the permit is closed out (refer to Chapter 5 for a description of the permit closeout process).",
+   "reason": null
+  },
+  {
+   "id": "Q18",
+   "source": "derived",
+   "q": "What is required when stockpiles are located within 100 feet of a drainageway?",
+   "manual": "SWRULES",
+   "pages": [
+    37
+   ],
+   "key": "100 feet",
+   "found": true,
+   "top1_correct": true,
+   "top3_correct": true,
+   "key_in_excerpt": true,
+   "got": [
+    [
+     "SWRULES",
+     "2.2 Design of System of Construction Stormwater BMPs and",
+     37
+    ],
+    [
+     "SWRULES",
+     "8 VARIANCE REQUESTS",
+     64
+    ],
+    [
+     "SWRULES",
+     "8 VARIANCE REQUESTS",
+     233
+    ]
+   ],
+   "answer": "Hydraulic mulching as a means to cover and protect seeding is not an acceptable means of applying mulch in the City of Aurora unless a previously installed irrigation system is used to aid germination and growth and where approved through variance. … If stockpiles are located within 100 feet of a drainageway or a public storm sewer system, additional sediment controls such as temporary diversion dikes, silt fence, or sediment basin shall be required.",
+   "reason": null
+  },
+  {
+   "id": "Q19",
+   "source": "out-of-scope probe",
+   "q": "What is the speed limit on residential streets in Aurora?",
+   "manual": null,
+   "pages": [],
+   "key": null,
+   "found": false,
+   "top1_correct": true,
+   "top3_correct": true,
+   "key_in_excerpt": null,
+   "got": [],
+   "answer": "I could not find support for this in the three Aurora Water manuals. Please contact the Aurora Water Engineering inbox: waterengineering@auroragov.org.",
+   "reason": "low support (score 11.9, weighted term coverage 32%, most specific term 'speed' missing)"
+  },
+  {
+   "id": "Q20",
+   "source": "out-of-scope probe",
+   "q": "What is the City's remote work policy for engineering staff?",
+   "manual": null,
+   "pages": [],
+   "key": null,
+   "found": false,
+   "top1_correct": true,
+   "top3_correct": true,
+   "key_in_excerpt": null,
+   "got": [],
+   "answer": "I could not find support for this in the three Aurora Water manuals. Please contact the Aurora Water Engineering inbox: waterengineering@auroragov.org.",
+   "reason": "low support (score 17.1, weighted term coverage 57%, most specific term 'remote' missing)"
+  }
+ ]
+}
